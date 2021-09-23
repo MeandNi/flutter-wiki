@@ -26,7 +26,7 @@ The Flutter engine requires the embedder to give it references to 4 task runners
 The main task runners are:
 * Platform Task Runner
 * UI Task Runner
-* GPU Task Runner
+* Raster Task Runner
 * IO Task Runner
 
 ### Platform Task Runner
